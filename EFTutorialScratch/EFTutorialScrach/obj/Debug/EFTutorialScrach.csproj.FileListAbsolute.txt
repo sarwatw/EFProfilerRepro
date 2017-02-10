@@ -1,0 +1,13 @@
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\bin\Debug\EFTutorialScrach.pdb
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\bin\Debug\EntityFramework.dll
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\bin\Debug\EntityFramework.SqlServer.dll
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\bin\Debug\EntityFramework.xml
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\bin\Debug\EntityFramework.SqlServer.xml
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\obj\Debug\EFTutorialScrach.pdb
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\bin\Debug\HibernatingRhinos.Profiler.Appender.dll
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\bin\Debug\HibernatingRhinos.Profiler.Appender.xml
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\obj\Debug\EFTutorialScrach.csprojResolveAssemblyReference.cache
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\bin\Debug\EFTutorialScrach.exe.config
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\bin\Debug\EFTutorialScrach.exe
+C:\alltopics\Velocity\Perf\EFTutorialScratch\EFTutorialScrach\obj\Debug\EFTutorialScrach.exe
